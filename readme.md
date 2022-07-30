@@ -16,6 +16,7 @@ FYI, to compile in terminal, run "mvn package" to create the JAR. (The pom.xml s
 
 Remember to create the required environment variables to communicate with your S3.
 
+```
 {
   "configurations": [
 
@@ -35,5 +36,5 @@ Remember to create the required environment variables to communicate with your S
 
   ]
 }
-
+```
 Additionally, the S3_Data folder that will sync with your s3 will be in Users/%username%/S3_Data.
