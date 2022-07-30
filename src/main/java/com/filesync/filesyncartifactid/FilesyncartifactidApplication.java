@@ -25,20 +25,6 @@ import com.amazonaws.services.s3control.model.*;
 @SpringBootApplication
 public class FilesyncartifactidApplication {
 
-	//TO DO create a bucket and put objects in it.
-// 	public String createBucket(String bucketName) {
-
-//     CreateBucketRequest reqCreateBucket = new CreateBucketRequest()
-//             .withBucket(bucketName)
-//             .withOutpostId(OutpostId)
-//             .withCreateBucketConfiguration(new CreateBucketConfiguration());
-
-//     CreateBucketResult respCreateBucket = s3ControlClient.createBucket(reqCreateBucket);
-//     System.out.printf("CreateBucket Response: %s%n", respCreateBucket.toString());
-
-//     return respCreateBucket.getBucketArn();
-
-// }
 	public static void main(String[] args) throws IOException {
 
 		SpringApplication.run(FilesyncartifactidApplication.class, args);
