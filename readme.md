@@ -1,8 +1,8 @@
-#S3 File Syncer
+# S3 File Syncer
 
 This app will sync a local folder to your AWS S3.
 
-#Setup
+# Setup
 
 This was built in vscode using the starting kit which is viewable here -> https://code.visualstudio.com/docs/java/java-spring-boot
 
