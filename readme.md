@@ -1,8 +1,8 @@
-@author - Scott Clary
-@date - 7/30/22
+#S3 File Syncer
 
+This app will sync a local folder to your AWS S3.
 
-This is the source code for a file sync app.
+#Setup
 
 This was built in vscode using the starting kit which is viewable here -> https://code.visualstudio.com/docs/java/java-spring-boot
 
