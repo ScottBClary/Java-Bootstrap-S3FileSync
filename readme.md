@@ -1,6 +1,7 @@
-# S3 File Syncer
+# About
 
 This app will sync a local folder to your AWS S3.
+
 
 # Setup
 
